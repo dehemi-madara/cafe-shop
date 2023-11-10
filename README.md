@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dehemi Madara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://img.freepik.com/free-vector/girl-with-laptop-table-white-background_1308-52074.jpg?w=740&t=st=1699635848~exp=1699636448~hmac=e4298764e1363172753331d865626a57fdbf91e09e96350211dd7913c92aafb2)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/92b406742484961df85585a2624ca87c4da03814428bed001e34404cb9de054b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f32362f63372f65373236633734616330383165656435306665656531343333643132633939382e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dehemi-madara&label=Profile%20views&color=0e75b6&style=flat" alt="dehemi-madara" /> </p>
 
